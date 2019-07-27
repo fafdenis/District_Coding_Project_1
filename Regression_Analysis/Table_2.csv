@@ -2,8 +2,8 @@
 Dep. Variable:   ,Ln_Inflows      ,  R-squared:         ,   0.525 
 Model:           ,OLS             ,  Adj. R-squared:    ,   0.524 
 Method:          ,Least Squares   ,  F-statistic:       ,   631.5 
-Date:            ,Fri, 26 Jul 2019,  Prob (F-statistic):,1.14e-298
-Time:            ,18:54:33        ,  Log-Likelihood:    , -3963.1 
+Date:            ,Sat, 27 Jul 2019,  Prob (F-statistic):,1.14e-298
+Time:            ,10:52:42        ,  Log-Likelihood:    , -3963.1 
 No. Observations:,  2281          ,  AIC:               ,   7934. 
 Df Residuals:    ,  2277          ,  BIC:               ,   7957. 
 Df Model:        ,     3          ,                     ,         
