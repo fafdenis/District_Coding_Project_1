@@ -1,0 +1,19 @@
+                      OLS Regression Results                      
+Dep. Variable:   ,Ln_Inflows      ,  R-squared:         ,   0.525 
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.524 
+Method:          ,Least Squares   ,  F-statistic:       ,   631.5 
+Date:            ,Fri, 26 Jul 2019,  Prob (F-statistic):,1.14e-298
+Time:            ,18:54:33        ,  Log-Likelihood:    , -3963.1 
+No. Observations:,  2281          ,  AIC:               ,   7934. 
+Df Residuals:    ,  2277          ,  BIC:               ,   7957. 
+Df Model:        ,     3          ,                     ,         
+Covariance Type: ,HC3             ,                     ,         
+           ,   coef   , std err ,    z    ,P>|z| ,  [0.025 ,  0.975] 
+const      ,   19.8411,    0.858,   23.122, 0.000,   18.159,   21.523
+DIncome    ,   -0.1701,    0.022,   -7.871, 0.000,   -0.212,   -0.128
+DPop       ,    0.6774,    0.022,   31.110, 0.000,    0.635,    0.720
+Ln_Distance,   -1.1735,    0.087,  -13.558, 0.000,   -1.343,   -1.004
+Omnibus:      ,542.687,  Durbin-Watson:     ,   0.209
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  ,1987.829
+Skew:         ,-1.138 ,  Prob(JB):          ,    0.00
+Kurtosis:     , 6.967 ,  Cond. No.          ,    160.
